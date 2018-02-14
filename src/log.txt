@@ -1,0 +1,11 @@
+commit f1b4a4e55350590b0264d015c91158fbd1b2a814
+Author: BALARAM PRATAP <500061550@DDN.UPES.AC.IN>
+Date:   Thu Feb 1 13:39:04 2018 +0530
+
+    cloned files
+
+commit 504a65f33f4a03b323c566336b337bd9a69c6593
+Author: BALARAM PRATAP <500061550@DDN.UPES.AC.IN>
+Date:   Thu Feb 1 12:34:06 2018 +0530
+
+    commiting ignoring files

@@ -1,0 +1,95 @@
+    1  ls
+    2  cd Desktop/
+    3  ls
+    4  cd ..
+    5  cd Local\ Settings/
+    6  ls
+    7  cd e:
+    8  ls
+    9  mkdir bal
+   10  ls
+   11  pwd
+   12  vim bal
+   13  cp bal wd
+   14  cp wd
+   15  find wd
+   16  history
+   17  arch
+   18  arch
+   19  awk
+   20  cd e:
+   21  awk
+   22  awk wd
+   23  awk wd
+   24  cal
+   25  cal -y
+   26  cd E:
+   27  ls
+   28  cd balaram
+   29  git help
+   30  ls
+   31  ls
+   32  src
+   33  cd src
+   34  ls
+   35  git status
+   36  cd balaram
+   37  cds ...
+   38  cd..
+   39  cds ..
+   40  cd E:
+   41  cd balaram
+   42  git status
+   43  git status
+   44  git add .
+   45  git status
+   46  cd E:
+   47  cd balaram
+   48  ls
+   49  git src
+   50  cd src
+   51  git status
+   52  git add .
+   53  git status
+   54  cd E:
+   55  cd balaram
+   56  cd src
+   57  ls
+   58  cd E:
+   59  cd balaram
+   60  git status
+   61  git add .
+   62  git status
+   63  git remote
+   64  git commit -m"commiting a new project"
+   65  git push
+   66  git status
+   67  git add .
+   68  git commit -m"commiting modified .txt file"
+   69  git push
+   70  ls -ah
+   71  git remote add origin2 https://github.com/balarampratap14/SCM-class2.git
+   72  git push -u origin2
+   73  git remote rm origin2
+   74  git push 
+   75  git push -u origin2
+   76  git status
+   77  git add hello.c
+   78  git push origin
+   79  git commit -m"updating changes"
+   80  git status
+   81  git push -u origin
+   82  git push -u origin master
+   83  git lock
+   84  git log
+   85  cd E:
+   86  cd balaram
+   87  ls
+   88  vi hello.c
+   89  git status
+   90  git add .
+   91  git status
+   92  git commit -m"commiting ubdated changes in hello.c"
+   93  git push origin
+   94  History > history.txt
+   95  history > history.txt
