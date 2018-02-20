@@ -1,3 +1,4 @@
 #ignore dat files#
-*.dat`
-
+*.dat
+#ignore txt files#
+*.txt
